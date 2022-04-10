@@ -14,3 +14,7 @@
  *= require bootstrap.min
  *= require freelancer.min
  */
+
+.success{
+    padding: 0;
+}
